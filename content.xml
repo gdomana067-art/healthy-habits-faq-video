@@ -1,0 +1,1577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605082243007QKB0V</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605082243007CTMNL</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Healthy Habits FAQ Video</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>3rd ESO English Project about health and healthy lifestyles</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Ana Gutiérrez Domínguez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje para 3.º de ESO en la materia de Inglés centrada en la salud y los hábitos de vida saludable. El producto final consiste en la elaboración de un vídeo en inglés con preguntas frecuentes y respuestas sobre healthy habits.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778257526447</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mox4m8v2-b7h70xabj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. HOME</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. HOME</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. HOME</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox4m8v2-b7h70xabj</odePageId>
+      <odeBlockId>block-1778181507968-rjlat1u23</odeBlockId>
+      <blockName>HEALTHY HABITS FAQ VIDEO</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4m8v2-b7h70xabj</odePageId>
+          <odeBlockId>block-1778181507968-rjlat1u23</odeBlockId>
+          <odeIdeviceId>idevice-1778181507964-56oeaw9ze</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>3rd ESO English Project about health and healthy lifestyles</strong></p>
+<p>Welcome to our project!<br />In this project, you will learn about health and healthy habits in English.<br />You will work individually, in pairs and in small groups.<br />At the end of the project, you will create a video with frequently asked questions and answers about healthy habits.</p>
+<p><img src="{{context_path}}/content/resources/Healthy habits.png" width="1536" height="876" alt="" /></p>
+<p>Image created by Ana Gutiérrez Domínguez</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778181507964-56oeaw9ze","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>3rd ESO English Project about health and healthy lifestyles</strong></p>\n<p>Welcome to our project!<br />In this project, you will learn about health and healthy habits in English.<br />You will work individually, in pairs and in small groups.<br />At the end of the project, you will create a video with frequently asked questions and answers about healthy habits.</p>\n<p><img src=\"{{context_path}}/content/resources/Healthy habits.png\" width=\"1536\" height=\"876\" alt=\"\" /></p>\n<p>Image created by Ana Gutiérrez Domínguez</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox4m8v8-z1v5yk3yg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. PROJECT PRESENTATION</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. PROJECT PRESENTATION</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. PROJECT PRESENTATION</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox4m8v8-z1v5yk3yg</odePageId>
+      <odeBlockId>block-1778182604454-meji0xv0g</odeBlockId>
+      <blockName>Healthy Habits FAQ Video</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4m8v8-z1v5yk3yg</odePageId>
+          <odeBlockId>block-1778182604454-meji0xv0g</odeBlockId>
+          <odeIdeviceId>idevice-1778182604450-o27oyx322</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>What is this project about?</strong><br />In this project, we are going to learn about health and healthy habits.<br />We will talk about food, exercise, sleep and daily routines.<br />We will also learn how to give advice in English.</p>
+<p><strong>Who is it for?</strong><br />This project is for 3rd ESO students in the subject of English.</p>
+<p><strong>How long will it take?</strong><br />This project will take about <strong>10–12 sessions.</strong></p>
+<p><strong>What will you learn?</strong><br />In this project, you will learn to:</p>
+<ul>
+<li>understand texts and videos about healthy habits</li>
+<li>use vocabulary about health, food and the body</li>
+<li>speak and write in English about daily routines and healthy lifestyles</li>
+<li>work in pairs and small groups</li>
+<li>use digital tools to create a final video.</li>
+</ul>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778182604450-o27oyx322","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>What is this project about?</strong><br />In this project, we are going to learn about health and healthy habits.<br />We will talk about food, exercise, sleep and daily routines.<br />We will also learn how to give advice in English.</p>\n<p><strong>Who is it for?</strong><br />This project is for 3rd ESO students in the subject of English.</p>\n<p><strong>How long will it take?</strong><br />This project will take about <strong>10–12 sessions.</strong></p>\n<p><strong>What will you learn?</strong><br />In this project, you will learn to:</p>\n<ul>\n<li>understand texts and videos about healthy habits</li>\n<li>use vocabulary about health, food and the body</li>\n<li>speak and write in English about daily routines and healthy lifestyles</li>\n<li>work in pairs and small groups</li>\n<li>use digital tools to create a final video.</li>\n</ul>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox4m8va-al6fpe9id</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. FINAL PRODUCT</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. FINAL PRODUCT</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. FINAL PRODUCT</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox4m8va-al6fpe9id</odePageId>
+      <odeBlockId>block-1778259573661-otoz75bsj</odeBlockId>
+      <blockName>Healthy Habits FAQ Video</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4m8va-al6fpe9id</odePageId>
+          <odeBlockId>block-1778259573661-otoz75bsj</odeBlockId>
+          <odeIdeviceId>idevice-1778259573656-9yytfewdv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>What is the final product?</strong><br />The final product of this project is <strong>a video in English about healthy habits</strong>.</p>
+<p><strong>What do you have to do?</strong><br />In small groups, you will create a video with frequently asked questions (FAQs) and answers about health and healthy habits.</p>
+<p>Your video can include questions and answers about:</p>
+<ul>
+<li>healthy food</li>
+<li>exercise</li>
+<li>sleep</li>
+<li>daily routines</li>
+<li>unhealthy habits</li>
+</ul>
+<p><strong>How will you work?</strong><br />You will work in small groups.<br />Each group will:</p>
+<ul style="list-style-type: circle;">
+<li>choose some questions</li>
+<li>write short answers in English</li>
+<li>prepare the video</li>
+<li>and present it to the class</li>
+</ul>
+<p><strong>What digital tool will you use?</strong><br />You will use <strong>Canva</strong> to plan and create your video.</p>
+<p><strong>Your video should be clear, simple and useful for other students!!</strong></p>
+<p><strong><img src="{{context_path}}/content/resources/Elaborando el producto final.jpg" width="1200" height="1200" alt="" /></strong></p>
+<p>Image created by Ana Gutiérrez Domínguez</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778259573656-9yytfewdv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>What is the final product?</strong><br />The final product of this project is <strong>a video in English about healthy habits</strong>.</p>\n<p><strong>What do you have to do?</strong><br />In small groups, you will create a video with frequently asked questions (FAQs) and answers about health and healthy habits.</p>\n<p>Your video can include questions and answers about:</p>\n<ul>\n<li>healthy food</li>\n<li>exercise</li>\n<li>sleep</li>\n<li>daily routines</li>\n<li>unhealthy habits</li>\n</ul>\n<p><strong>How will you work?</strong><br />You will work in small groups.<br />Each group will:</p>\n<ul style=\"list-style-type: circle;\">\n<li>choose some questions</li>\n<li>write short answers in English</li>\n<li>prepare the video</li>\n<li>and present it to the class</li>\n</ul>\n<p><strong>What digital tool will you use?</strong><br />You will use <strong>Canva</strong> to plan and create your video.</p>\n<p><strong>Your video should be clear, simple and useful for other students!!</strong></p>\n<p><strong><img src=\"{{context_path}}/content/resources/Elaborando el producto final.jpg\" width=\"1200\" height=\"1200\" alt=\"\" /></strong></p>\n<p>Image created by Ana Gutiérrez Domínguez</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox4m8va-hdtpk09cb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. DIGITAL SAFETY AND STUDENT´S RIGHTS</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. DIGITAL SAFETY AND STUDENT´S RIGHTS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. DIGITAL SAFETY AND STUDENT´S RIGHTS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox4m8va-hdtpk09cb</odePageId>
+      <odeBlockId>block-1778262148935-7oukwq4z3</odeBlockId>
+      <blockName>Data protection and digital rights</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4m8va-hdtpk09cb</odePageId>
+          <odeBlockId>block-1778262148935-7oukwq4z3</odeBlockId>
+          <odeIdeviceId>idevice-1778262148929-330ppzazu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Digital safety and students’ rights</strong></p>
+<p>Before starting the project, it is important to remember some basic rules for a safe and responsible use of technology.</p>
+<p>In this project, you will use digital tools to search for information, write your work and create a video.<br />For this reason, you must:</p>
+<ul>
+<li>protect your personal data</li>
+<li>use safe and respectful online behaviour</li>
+<li>respect other people’s work and digital rights</li>
+<li>use reliable sources of information</li>
+</ul>
+<p><br /><strong>Read the following infographic carefully before continuing with the project.</strong></p>
+<p><strong><img src="{{context_path}}/content/resources/Infografía Ciberseguridad Internet Online Consejos Ilustrado Tecnológico Verde Gris_page-0001.jpg" width="1250" height="3125" alt="" /></strong></p>
+<p>Author: Ana Gutiérrez. Licence: CC BY-NC-SA 4.0.</p>
+<p><strong><img src="{{context_path}}/content/resources/Infografía Ciberseguridad Internet Online Consejos Ilustrado Tecnológico Verde Gris.pdf" alt="" /></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778262148929-330ppzazu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Digital safety and students’ rights</strong></p>\n<p>Before starting the project, it is important to remember some basic rules for a safe and responsible use of technology.</p>\n<p>In this project, you will use digital tools to search for information, write your work and create a video.<br />For this reason, you must:</p>\n<ul>\n<li>protect your personal data</li>\n<li>use safe and respectful online behaviour</li>\n<li>respect other people’s work and digital rights</li>\n<li>use reliable sources of information</li>\n</ul>\n<p><br /><strong>Read the following infographic carefully before continuing with the project.</strong></p>\n<p><strong><img src=\"{{context_path}}/content/resources/Infografía Ciberseguridad Internet Online Consejos Ilustrado Tecnológico Verde Gris_page-0001.jpg\" width=\"1250\" height=\"3125\" alt=\"\" /></strong></p>\n<p>Author: Ana Gutiérrez. Licence: CC BY-NC-SA 4.0.</p>\n<p><strong><img src=\"{{context_path}}/content/resources/Infografía Ciberseguridad Internet Online Consejos Ilustrado Tecnológico Verde Gris.pdf\" alt=\"\" /></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox4m8va-4humldjxi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. RESOURCES FOR STUDENTS</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. RESOURCES FOR STUDENTS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. RESOURCES FOR STUDENTS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox4m8va-4humldjxi</odePageId>
+      <odeBlockId>block-1778263263850-8iikuh3nm</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4m8va-4humldjxi</odePageId>
+          <odeBlockId>block-1778263263850-8iikuh3nm</odeBlockId>
+          <odeIdeviceId>idevice-1778263263845-5jfcxqgwi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Resources for students</strong></p>
+<p>In this section, you can find useful resources for the project.<br />Use them to learn vocabulary, understand information about healthy habits and prepare your final video.</p>
+<p>You will find:</p>
+<ul>
+<li>information about health and healthy habits</li>
+<li>food and nutrition vocabulary</li>
+<li>useful English for giving advice</li>
+<li>help to organise your video</li>
+<li>and free images and videos for your project.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778263263845-5jfcxqgwi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Resources for students</strong></p>\n<p>In this section, you can find useful resources for the project.<br />Use them to learn vocabulary, understand information about healthy habits and prepare your final video.</p>\n<p>You will find:</p>\n<ul>\n<li>information about health and healthy habits</li>\n<li>food and nutrition vocabulary</li>\n<li>useful English for giving advice</li>\n<li>help to organise your video</li>\n<li>and free images and videos for your project.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox4m8va-4humldjxi</odePageId>
+      <odeBlockId>block-1778263440702-058uboxnu</odeBlockId>
+      <blockName>Student resoures padlet</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4m8va-4humldjxi</odePageId>
+          <odeBlockId>block-1778263440702-058uboxnu</odeBlockId>
+          <odeIdeviceId>idevice-1778263440700-q42yzznum</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Student resources padlet:</strong> <a href="https://padlet.com/gdomana067/resources-for-our-healthy-habits-faq-video-rjmg7bp0kxuaimg5">https://padlet.com/gdomana067/resources-for-our-healthy-habits-faq-video-rjmg7bp0kxuaimg5</a></p>
+<p><strong>Open the Padlet and use the materials before creating your video!!</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778263440700-q42yzznum","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Student resources padlet:</strong> <a href=\"https://padlet.com/gdomana067/resources-for-our-healthy-habits-faq-video-rjmg7bp0kxuaimg5\">https://padlet.com/gdomana067/resources-for-our-healthy-habits-faq-video-rjmg7bp0kxuaimg5</a></p>\n<p><strong>Open the Padlet and use the materials before creating your video!!</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox4m8vb-zgfrvxykm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. TEACHER´S DIGITAL TOOLS</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. TEACHER´S DIGITAL TOOLS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. TEACHER´S DIGITAL TOOLS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox4m8vb-zgfrvxykm</odePageId>
+      <odeBlockId>block-1778263891947-4rodcgqch</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4m8vb-zgfrvxykm</odePageId>
+          <odeBlockId>block-1778263891947-4rodcgqch</odeBlockId>
+          <odeIdeviceId>idevice-1778263891941-duud6i4kg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Teacher’s digital tools</strong></p>
+<p>In this section, you can find some digital tools used in the development of this project.</p>
+<p>These tools can help the teacher:</p>
+<ul>
+<li>organise the classroom work</li>
+<li>share materials and tasks</li>
+<li>prepare activities</li>
+<li>and support the creation of the final product</li>
+</ul>
+<p><strong>Teacher’s Symbaloo: </strong></p>
+<p><a href="https://www.symbaloo.com/shared/AAAAA-l3UlAAA41_W3QJcw==">https://www.symbaloo.com/shared/AAAAA-l3UlAAA41_W3QJcw==</a></p>
+<p>This selection includes some of the digital tools used in the classroom, such as Google Classroom, Canva and Séneca.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778263891941-duud6i4kg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Teacher’s digital tools</strong></p>\n<p>In this section, you can find some digital tools used in the development of this project.</p>\n<p>These tools can help the teacher:</p>\n<ul>\n<li>organise the classroom work</li>\n<li>share materials and tasks</li>\n<li>prepare activities</li>\n<li>and support the creation of the final product</li>\n</ul>\n<p><strong>Teacher’s Symbaloo: </strong></p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAA-l3UlAAA41_W3QJcw==\">https://www.symbaloo.com/shared/AAAAA-l3UlAAA41_W3QJcw==</a></p>\n<p>This selection includes some of the digital tools used in the classroom, such as Google Classroom, Canva and Séneca.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox4m8vb-wi9sszo1l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. PROJECT TIMELINE</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. PROJECT TIMELINE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. PROJECT TIMELINE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox4m8vb-wi9sszo1l</odePageId>
+      <odeBlockId>block-1778264463137-pmf7u9uq0</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4m8vb-wi9sszo1l</odePageId>
+          <odeBlockId>block-1778264463137-pmf7u9uq0</odeBlockId>
+          <odeIdeviceId>idevice-1778264463132-vdtcrorn3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Project timeline</strong></p>
+<p>This timeline shows the main stages of the project.<br />It will help you understand:</p>
+<ul>
+<li>what you have to do in each session</li>
+<li>how you will work</li>
+<li>what digital tools you will use</li>
+<li>and how the project is organised.</li>
+</ul>
+<p><img src="{{context_path}}/content/resources/Healthy Habits FAQ Video_page-0001.jpg" width="1241" height="1755" alt="" /></p>
+<p>Timeline created by Ana Gutiérrez Domínguez. Licence: CC BY-NC-SA 4.0.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778264463132-vdtcrorn3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Project timeline</strong></p>\n<p>This timeline shows the main stages of the project.<br />It will help you understand:</p>\n<ul>\n<li>what you have to do in each session</li>\n<li>how you will work</li>\n<li>what digital tools you will use</li>\n<li>and how the project is organised.</li>\n</ul>\n<p><img src=\"{{context_path}}/content/resources/Healthy Habits FAQ Video_page-0001.jpg\" width=\"1241\" height=\"1755\" alt=\"\" /></p>\n<p>Timeline created by Ana Gutiérrez Domínguez. Licence: CC BY-NC-SA 4.0.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox4m8vb-656w2mp8w</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. ASSESSMENT</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. ASSESSMENT</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. ASSESSMENT</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox4m8vb-656w2mp8w</odePageId>
+      <odeBlockId>block-1778266602858-aue2o7kw4</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4m8vb-656w2mp8w</odePageId>
+          <odeBlockId>block-1778266602858-aue2o7kw4</odeBlockId>
+          <odeIdeviceId>idevice-1778266602854-t9sq5dgei</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Assessment</strong></p>
+<p>In this project, different assessment tools will be used.<br />They will help to evaluate:</p>
+<ul>
+<li>the final video <strong>(Final product rubric)</strong></li>
+<li>the group work process <strong>(Checklist for group work)</strong></li>
+<li>and your reflection about what you have learned <strong>(Self-assessment and final reflection)</strong></li>
+</ul>
+<p>You will know in advance what is going to be assessed and how it will be assessed.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778266602854-t9sq5dgei","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Assessment</strong></p>\n<p>In this project, different assessment tools will be used.<br />They will help to evaluate:</p>\n<ul>\n<li>the final video <strong>(Final product rubric)</strong></li>\n<li>the group work process <strong>(Checklist for group work)</strong></li>\n<li>and your reflection about what you have learned <strong>(Self-assessment and final reflection)</strong></li>\n</ul>\n<p>You will know in advance what is going to be assessed and how it will be assessed.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox4m8vb-656w2mp8w</odePageId>
+      <odeBlockId>block-1778266997932-z2k3yf76q</odeBlockId>
+      <blockName>1. Final product rubric</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4m8vb-656w2mp8w</odePageId>
+          <odeBlockId>block-1778266997932-z2k3yf76q</odeBlockId>
+          <odeIdeviceId>idevice-1778266997929-1xcpr4hhj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>This rubric will be used to assess the final video. Some aspects will be assessed as a group and others individually.</p>
+<p><img src="{{context_path}}/content/resources/Rubric_page-0001.jpg" width="1240" height="1755" alt="" /></p>
+<p>Rubric created by Ana Gutiérrez Domínguez for educational use. Licence: CC BY-NC-SA 4.0.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778266997929-1xcpr4hhj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>This rubric will be used to assess the final video. Some aspects will be assessed as a group and others individually.</p>\n<p><img src=\"{{context_path}}/content/resources/Rubric_page-0001.jpg\" width=\"1240\" height=\"1755\" alt=\"\" /></p>\n<p>Rubric created by Ana Gutiérrez Domínguez for educational use. Licence: CC BY-NC-SA 4.0.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox4m8vb-656w2mp8w</odePageId>
+      <odeBlockId>block-1778267902845-7c7tnruu8</odeBlockId>
+      <blockName>2. Checklist for group work</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4m8vb-656w2mp8w</odePageId>
+          <odeBlockId>block-1778267902845-7c7tnruu8</odeBlockId>
+          <odeIdeviceId>idevice-1778267902842-31oou2yj4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>This checklist will be used to observe the group work process and the responsible use of technology during the project.</p>
+<p><img src="{{context_path}}/content/resources/Checklist_page-0001.jpg" width="1240" height="1755" alt="" /></p>
+<p>Checklist created by Ana Gutiérrez Domínguez for educational use. Licence: CC BY-NC-SA 4.0.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778267902842-31oou2yj4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>This checklist will be used to observe the group work process and the responsible use of technology during the project.</p>\n<p><img src=\"{{context_path}}/content/resources/Checklist_page-0001.jpg\" width=\"1240\" height=\"1755\" alt=\"\" /></p>\n<p>Checklist created by Ana Gutiérrez Domínguez for educational use. Licence: CC BY-NC-SA 4.0.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox4m8vb-656w2mp8w</odePageId>
+      <odeBlockId>block-1778268752695-8hptuntvr</odeBlockId>
+      <blockName>3. Self-assessment and final reflection</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4m8vb-656w2mp8w</odePageId>
+          <odeBlockId>block-1778268752695-8hptuntvr</odeBlockId>
+          <odeIdeviceId>idevice-1778268752689-ysytmhxxu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>At the end of the project, students will complete a short reflection about their learning process.</p>
+<p><img src="{{context_path}}/content/resources/Self assessment sheet_page-0001.jpg" width="1241" height="1755" alt="" /></p>
+<p>Self-assessment sheet created by Ana Gutiérrez Domínguez for educational use. Licence: CC BY-NC-SA 4.0</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778268752689-ysytmhxxu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>At the end of the project, students will complete a short reflection about their learning process.</p>\n<p><img src=\"{{context_path}}/content/resources/Self assessment sheet_page-0001.jpg\" width=\"1241\" height=\"1755\" alt=\"\" /></p>\n<p>Self-assessment sheet created by Ana Gutiérrez Domínguez for educational use. Licence: CC BY-NC-SA 4.0</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox4m8vc-78wxkorbs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>9. DIDACTIC GUIDE</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. DIDACTIC GUIDE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. DIDACTIC GUIDE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox4m8vc-78wxkorbs</odePageId>
+      <odeBlockId>block-1778269471330-cpv739th9</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4m8vc-78wxkorbs</odePageId>
+          <odeBlockId>block-1778269471330-cpv739th9</odeBlockId>
+          <odeIdeviceId>idevice-1778269471324-s0ndmj1pr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Didactic guide</strong></p>
+<p>This section includes the main didactic information of the project.<br />Here you can find:</p>
+<ul>
+<li>the sequence of tasks</li>
+<li>the assessment criteria related to those tasks</li>
+<li>and some methodological notes.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778269471324-s0ndmj1pr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Didactic guide</strong></p>\n<p>This section includes the main didactic information of the project.<br />Here you can find:</p>\n<ul>\n<li>the sequence of tasks</li>\n<li>the assessment criteria related to those tasks</li>\n<li>and some methodological notes.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox4m8vc-78wxkorbs</odePageId>
+      <odeBlockId>block-1778269639327-x2t0taxwy</odeBlockId>
+      <blockName>Tasks and assessment criteria</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4m8vc-78wxkorbs</odePageId>
+          <odeBlockId>block-1778269639327-x2t0taxwy</odeBlockId>
+          <odeIdeviceId>idevice-1778269639325-n7dbrf4hy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Asociamos tareas a Criterios de evaluación _page-0001.jpg" width="1536" height="1087" alt="" /></p>
+<p>This sequence has been designed taking into account previous reflections on teaching practice, the need to use realistic digital tools and the importance of planning the project in a flexible and coherent way.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778269639325-n7dbrf4hy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Asociamos tareas a Criterios de evaluación _page-0001.jpg\" width=\"1536\" height=\"1087\" alt=\"\" /></p>\n<p>This sequence has been designed taking into account previous reflections on teaching practice, the need to use realistic digital tools and the importance of planning the project in a flexible and coherent way.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox4m8vc-78wxkorbs</odePageId>
+      <odeBlockId>block-1778270359344-vcsysjo73</odeBlockId>
+      <blockName>Methodological notes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4m8vc-78wxkorbs</odePageId>
+          <odeBlockId>block-1778270359344-vcsysjo73</odeBlockId>
+          <odeIdeviceId>idevice-1778270359339-iqnrf2qhp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>The project is designed for 3rd ESO students in the subject of English.</li>
+<li>The final product is a video in English about healthy habits.</li>
+<li>The project combines whole class work, pair work and small group work.</li>
+<li>The main digital tools used are Padlet, Liveworksheets, Google Classroom and Canva.</li>
+<li>The activities are organised in a progressive way, from comprehension and vocabulary work to the creation of the final product.</li>
+</ul>
+<p></p>
+<p>Didactic guide created by Ana Gutiérrez Domínguez for educational use. Licence: CC BY-NC-SA 4.0.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778270359339-iqnrf2qhp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>The project is designed for 3rd ESO students in the subject of English.</li>\n<li>The final product is a video in English about healthy habits.</li>\n<li>The project combines whole class work, pair work and small group work.</li>\n<li>The main digital tools used are Padlet, Liveworksheets, Google Classroom and Canva.</li>\n<li>The activities are organised in a progressive way, from comprehension and vocabulary work to the creation of the final product.</li>\n</ul>\n<p></p>\n<p>Didactic guide created by Ana Gutiérrez Domínguez for educational use. Licence: CC BY-NC-SA 4.0.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778257708941-esf19x05j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>10. INCLUSION AND UNIVERSAL DESIGN FOR LEARNING</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>10. INCLUSION AND UNIVERSAL DESIGN FOR LEARNING</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>10. INCLUSION AND UNIVERSAL DESIGN FOR LEARNING</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>10. INCLUSION AND UNIVERSAL DESIGN FOR LEARNING</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778257708941-esf19x05j</odePageId>
+      <odeBlockId>block-1778257760121-uzuqjwk8j</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778257708941-esf19x05j</odePageId>
+          <odeBlockId>block-1778257760121-uzuqjwk8j</odeBlockId>
+          <odeIdeviceId>idevice-1778257760117-y9jzu67gd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Inclusion and Universal Design for Learning</strong></p>
+<p>This project has been designed to be accessible, flexible and inclusive for all students.</p>
+<p>Different support measures are included during the project:</p>
+<ul>
+<li>activation of prior knowledge</li>
+<li>visual support and clear instructions</li>
+<li>use of simple and guided digital tools</li>
+<li>flexible grouping</li>
+<li>teamwork and peer support</li>
+<li>different ways of participating in the final product.</li>
+</ul>
+<p>The project also follows some basic <strong>principles of Universal Design for Learning (UDL):</strong></p>
+<ul>
+<li><strong>multiple means of representation</strong>, through videos, texts, visuals and digital resources</li>
+<li><strong>multiple means of action and expression</strong>, through speaking, writing, planning and creating a video</li>
+<li><strong>multiple means of engagement</strong>, through a meaningful topic, collaborative work and a motivating final product.</li>
+</ul>
+<p>These measures aim to help all students participate in the project according to their needs and abilities.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778257760117-y9jzu67gd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Inclusion and Universal Design for Learning</strong></p>\n<p>This project has been designed to be accessible, flexible and inclusive for all students.</p>\n<p>Different support measures are included during the project:</p>\n<ul>\n<li>activation of prior knowledge</li>\n<li>visual support and clear instructions</li>\n<li>use of simple and guided digital tools</li>\n<li>flexible grouping</li>\n<li>teamwork and peer support</li>\n<li>different ways of participating in the final product.</li>\n</ul>\n<p>The project also follows some basic <strong>principles of Universal Design for Learning (UDL):</strong></p>\n<ul>\n<li><strong>multiple means of representation</strong>, through videos, texts, visuals and digital resources</li>\n<li><strong>multiple means of action and expression</strong>, through speaking, writing, planning and creating a video</li>\n<li><strong>multiple means of engagement</strong>, through a meaningful topic, collaborative work and a motivating final product.</li>\n</ul>\n<p>These measures aim to help all students participate in the project according to their needs and abilities.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778257708941-esf19x05j</odePageId>
+      <odeBlockId>block-1778271041983-c13yvfpvi</odeBlockId>
+      <blockName>Support measures in this project</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778257708941-esf19x05j</odePageId>
+          <odeBlockId>block-1778271041983-c13yvfpvi</odeBlockId>
+          <odeIdeviceId>idevice-1778271041980-r6m4r8160</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Clear explanations before each task</li>
+<li>Visual and written support for instructions</li>
+<li>Guided use of Padlet, Google Classroom and Canva</li>
+<li>Flexible grouping in pairs and small groups</li>
+<li>Peer support during digital tasks</li>
+<li>Possibility to contribute in different ways to the final video</li>
+<li>Extra help when technical difficulties appear</li>
+<li>Focus on participation, progress and communication</li>
+</ul>
+<p></p>
+<p></p>
+<p>This section has been created by Ana Gutiérrez Domínguez for educational use. Licence: CC BY-NC-SA 4.0.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778271041980-r6m4r8160","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Clear explanations before each task</li>\n<li>Visual and written support for instructions</li>\n<li>Guided use of Padlet, Google Classroom and Canva</li>\n<li>Flexible grouping in pairs and small groups</li>\n<li>Peer support during digital tasks</li>\n<li>Possibility to contribute in different ways to the final video</li>\n<li>Extra help when technical difficulties appear</li>\n<li>Focus on participation, progress and communication</li>\n</ul>\n<p></p>\n<p></p>\n<p>This section has been created by Ana Gutiérrez Domínguez for educational use. Licence: CC BY-NC-SA 4.0.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox4m8vc-xrqm9dw2j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>11. CREDITS</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>11. CREDITS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>11. CREDITS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>11. CREDITS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox4m8vc-xrqm9dw2j</odePageId>
+      <odeBlockId>block-1778271370606-uku1rmg2g</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4m8vc-xrqm9dw2j</odePageId>
+          <odeBlockId>block-1778271370606-uku1rmg2g</odeBlockId>
+          <odeIdeviceId>idevice-1778271370602-sde5ahzqo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría</strong><br />Ana Gutiérrez Domínguez</p>
+<p><strong>Título del proyecto</strong><br />Healthy Habits FAQ Video</p>
+<p><strong>Descripción</strong><br />Este recurso eXeLearning ha sido creado para alumnado de 3.º de ESO en la materia de Inglés. El proyecto se centra en la salud y los hábitos de vida saludable y su producto final consiste en la elaboración de un vídeo en inglés con preguntas frecuentes y respuestas sobre healthy habits.</p>
+<p><strong>Licencia</strong><br />Creative Commons BY-NC-SA 4.0</p>
+<p><strong>Uso educativo</strong><br />Este material ha sido creado con fines educativos y puede ser reutilizado y adaptado para usos no comerciales, siempre que se reconozca la autoría y se mantenga la misma licencia.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778271370602-sde5ahzqo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría</strong><br />Ana Gutiérrez Domínguez</p>\n<p><strong>Título del proyecto</strong><br />Healthy Habits FAQ Video</p>\n<p><strong>Descripción</strong><br />Este recurso eXeLearning ha sido creado para alumnado de 3.º de ESO en la materia de Inglés. El proyecto se centra en la salud y los hábitos de vida saludable y su producto final consiste en la elaboración de un vídeo en inglés con preguntas frecuentes y respuestas sobre healthy habits.</p>\n<p><strong>Licencia</strong><br />Creative Commons BY-NC-SA 4.0</p>\n<p><strong>Uso educativo</strong><br />Este material ha sido creado con fines educativos y puede ser reutilizado y adaptado para usos no comerciales, siempre que se reconozca la autoría y se mantenga la misma licencia.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox4m8vc-xrqm9dw2j</odePageId>
+      <odeBlockId>block-1778271819122-77zb5c3gc</odeBlockId>
+      <blockName>Créditos de imágenes y recursos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4m8vc-xrqm9dw2j</odePageId>
+          <odeBlockId>block-1778271819122-77zb5c3gc</odeBlockId>
+          <odeIdeviceId>idevice-1778271819119-hsbe8wfgu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Imagen de portada: creada por la autora con Canva. Licencia: CC BY-NC-SA 4.0.</li>
+<li>Infografía de seguridad digital: Ana Gutiérrez. Licencia: CC BY-NC-SA 4.0.</li>
+<li>Línea temporal del proyecto: creada por la autora con Canva. Licencia: CC BY-NC-SA 4.0.</li>
+<li>Rúbrica, lista de cotejo y ficha de autoevaluación: creadas por la autora para uso educativo. Licencia: CC BY-NC-SA 4.0.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778271819119-hsbe8wfgu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Imagen de portada: creada por la autora con Canva. Licencia: CC BY-NC-SA 4.0.</li>\n<li>Infografía de seguridad digital: Ana Gutiérrez. Licencia: CC BY-NC-SA 4.0.</li>\n<li>Línea temporal del proyecto: creada por la autora con Canva. Licencia: CC BY-NC-SA 4.0.</li>\n<li>Rúbrica, lista de cotejo y ficha de autoevaluación: creadas por la autora para uso educativo. Licencia: CC BY-NC-SA 4.0.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox4m8vc-xrqm9dw2j</odePageId>
+      <odeBlockId>block-1778272210813-fsz192cyb</odeBlockId>
+      <blockName>Archivo editable</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4m8vc-xrqm9dw2j</odePageId>
+          <odeBlockId>block-1778272210813-fsz192cyb</odeBlockId>
+          <odeIdeviceId>idevice-1778272210809-a9e0yttya</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El archivo editable de eXeLearning estará disponible para su descarga junto con la versión publicada de este recurso.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778272210809-a9e0yttya","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El archivo editable de eXeLearning estará disponible para su descarga junto con la versión publicada de este recurso.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
